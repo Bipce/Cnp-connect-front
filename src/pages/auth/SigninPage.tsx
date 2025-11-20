@@ -82,7 +82,9 @@ const SigninPage = () => {
         )}
 
         {isPending && <p>Connection...</p>}
+
         <PrimaryButton type="submit">Se connecter</PrimaryButton>
+        <PrimaryButton type="submit">Se connecter avec google</PrimaryButton>
       </form>
     </>
   );
