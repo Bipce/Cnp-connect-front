@@ -7,6 +7,8 @@
 ![React Query](https://img.shields.io/badge/React_Query-data_fetching-FF4154?logo=reactquery)
 ![Zustand](https://img.shields.io/badge/Zustand-state_management-orange)
 
+🔗 **Backend repository:** [Cnp-connect-back](https://github.com/Bipce/Cnp-connect-back)
+
 ## 📖 Overview
 
 CNP Connect is the frontend application of a rail operations platform used to manage
