@@ -74,7 +74,7 @@ VITE_API_BASE_URL=https://your-backend-url/api
 
 ---
 
-## 🚀 Features
+## ✨ Features
 
 - Authentication (sign in / sign out)
 - Forgot password and password reset flows
